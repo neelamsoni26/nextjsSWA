@@ -19,6 +19,9 @@ const Home = () => (
         );
       })}
     </div>
+    <div>
+    <img src="/public/rainbow.png"  alt="logo" />
+  </div>
   </div>
 );
 
