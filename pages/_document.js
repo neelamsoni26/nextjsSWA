@@ -14,8 +14,6 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-          <img src="/public/rainbow.png"  alt="logo" />
-
         </body>
       </Html>
     );
